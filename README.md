@@ -2,8 +2,8 @@
 ---
 Cruise Logger - version SpringMVC
 ---
-Czwarta wersja loggera rejsów ¿eglarskich. Aplikacja umo¿liwia wykonywanie operacji CRUD(zapisu/odczytu/aktualizacji/usuwania) na bazie danych H2.
-W tym przypadku wykorzystano framework Spring(Boot + MVC + Data). Komunikacja z baz¹ danych odbywa siê za pomoc¹ interfejsu JpaRepository. Aplikacja poza podstawow¹ funkcjonalnoœci¹ pozwala na filtracjê danych w zale¿noœci od daty oraz iloœci przep³yniêtych mil (jako przyk³ad wykorzystania JpaRepo). Warstwa widoku wykorzystuje strony JSP z tagami JSTL. Do testowania aplikacji przewidziano generator losowych rejsów umo¿liwiaj¹cy utworzenie przyk³adowych danych.
+Czwarta wersja loggera rejsów żeglarskich. Aplikacja umo¿liwia wykonywanie operacji CRUD(zapisu/odczytu/aktualizacji/usuwania) na bazie danych H2.
+W tym przypadku wykorzystano framework Spring(Boot + MVC + Data). Komunikacja z bazą danych odbywa się za pomocą interfejsu JpaRepository. Aplikacja poza podstawową funkcjonalnością pozwala na filtrację danych w zależności od daty oraz ilości przepłyniętych mil (jako przykład wykorzystania JpaRepo). Warstwa widoku wykorzystuje strony JSP z tagami JSTL. Do testowania aplikacji przewidziano generator losowych rejsów umożliwiający utworzenie przykładowych danych.
 
 ----------
 Fourth version of app that allows you to log your sailing cruises. Application provide CRUD operations (Create/Read/Update/Delete) on H2 database.
